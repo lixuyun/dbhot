@@ -10,6 +10,7 @@ int main()
 	printf("短视频\n");
 	printf("约饭(修复BUG)\n");
 	printf("商城100%\n");
+	printf("摇一摇\n");
 	
 	return 0;
 }
