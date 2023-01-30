@@ -8,6 +8,7 @@ int main()
 	
 	printf("穿越\n");
 	printf("短视频\n");
-
+	printf("约饭\n");
+	
 	return 0;
 }
